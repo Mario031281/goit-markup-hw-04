@@ -274,7 +274,7 @@ button {
 	align-items: center;
 }
 .descr-name-icon {
-	fill: #2e2f42;
+	fill: var(--main-background-color);
 }
 .descr-list {
 	display: flex;
