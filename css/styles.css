@@ -261,13 +261,11 @@ button {
 	justify-content: center;
 }
 .descr-icon-item {
-	width: 264px;
-	height: 112px;
 }
 .descr-icon-link {
 	display: flex;
-	width: 100%;
-	height: 100%;
+	width: 264px;
+	height: 112px;
 	background: #f4f4fd;
 	border-radius: 4px;
 	justify-content: center;
